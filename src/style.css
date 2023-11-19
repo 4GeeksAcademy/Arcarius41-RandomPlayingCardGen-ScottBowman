@@ -12,7 +12,7 @@ body {
   background-size: cover;
 }
 
-/* @keyframes spin {
+@keyframes spin {
   0% {
     transform: rotateY(0deg);
   }
@@ -23,4 +23,4 @@ body {
 
 .spin-animation {
   animation: spin 0.5s linear;
-} */
+}
